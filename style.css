@@ -204,8 +204,8 @@ nav h1 {
 }
 
 #portfolio a:hover {
-  background: #000;
-  color: #fff;
+  background: #dbc778;
+  color: #e48484;
   transform: translateX(4px);
 }
 
